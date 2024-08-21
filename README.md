@@ -1,0 +1,1 @@
+These matlab scripts are meant to help a user with a Keysight UXR oscilloscope use commands from matlab. The oscilloscope interface is Infiniium. The main code is in the scope_interface.m file with comprehensive guides in the other two files.
